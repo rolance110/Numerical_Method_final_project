@@ -8,8 +8,14 @@ E94096110鄭智宇
 
 關鍵詞：地點評級、防網路水軍、機器學習、假消息
 
-
  ![image](https://github.com/rolance110/Numerical_Method_final_project/assets/127593514/06b6dd94-d2ab-4051-aad3-a3c5b06be83a)
+ 
+ ## 設計思考流程
+ ![image](https://github.com/rolance110/Numerical_Method_final_project/assets/127593514/76010367-4ff5-456a-830b-e89ae6fb8a12)
+
+ ## 程式運行流程
+ ![image](https://github.com/rolance110/Numerical_Method_final_project/assets/127593514/cfa53c9b-a1fa-478c-9353-8c3468719719)
+
 
 
 
